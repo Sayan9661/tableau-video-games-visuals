@@ -3,7 +3,7 @@ Made a dashboard in tableau to visulize video game data.
 
 
 ## Visualization
-I created the following visualization in tableau.<br>
+I created the following Dashboard visualization in tableau.<br>
 <img src="dashboard video games.jpg">
 
 
