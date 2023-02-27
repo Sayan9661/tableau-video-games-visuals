@@ -1,5 +1,5 @@
 # tableau-video-games-visuals
-Made a dashboard in tableau to visulize video game data.
+Made a dashboard in tableau to visualize video game data.
 
 
 ## Visualization
