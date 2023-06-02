@@ -1,4 +1,4 @@
-# Video Games Sales (Tableau + Pandas)
+# Video Games Sales (Tableau )
 Demo of Data Transformation and Visualization using Tableau for video game data.
 
 ### Demo Image of website
