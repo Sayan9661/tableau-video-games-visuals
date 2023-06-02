@@ -1,11 +1,8 @@
-# tableau-video-games-visuals
-Dashboard in Tableau to visualize video game data.
+# Video Games Sales (Tableau + Pandas)
+Demo of Data Transformation and Visualization using Tableau for video game data.
 
-
-## Visualization
-Image of Dashboard visualization in tableau.<br>
-<img src="https://github.com/Sayan9661/tableau-video-games-visuals/blob/61393ca3c2e45327882c5f7c553e750930c35ec4/dashboard%20video%20games.jpg">
-
+### Demo Image of website
+![a picture of what the dashboard would look like](https://github.com/Sayan9661/tableau-video-games-visuals/blob/main/dashboard%20video%20games.jpg?raw=true)
 
 ## Dataset
 Dataset is taken from kaggle.
